@@ -9,8 +9,8 @@ MEMORY="1024"
 #IPAddress="192.168.15.122"
 #VAGRANT_HOSTNAME="EFD-Datanode-1"
 #IPAddress="192.168.15.123"
-VAGRANT_HOSTNAME="EFD-Datanode-2"
-IPAddress="192.168.15.124"
+#VAGRANT_HOSTNAME="EFD-Datanode-2"
+#IPAddress="192.168.15.124"
 
 nvme = './nvme-2.vdi'
 hd1 = './hd1-2.vdi'
